@@ -4,7 +4,7 @@
         <description><![CDATA[pieface]]></description>
         <link>https://thegrid.ai/pieface/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 19 May 2016 12:26:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 May 2016 12:26:36 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/pieface/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Mummy, Iphone chic.]]></title>
@@ -14,18 +14,18 @@
             <pubDate>Thu, 19 May 2016 12:21:12 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Lars]]></title>
+            <description><![CDATA[<article><h1>Lars</h1><p>Lars is the world's most coveted child.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/839dc3d1-9974-4f8c-afff-4d8487883786.jpg"></article>]]></description>
+            <link>https://thegrid.ai/pieface/lars/index.html</link>
+            <guid isPermaLink="false">1cf3fcf2-3fb8-4809-9d01-31a63c6c7710</guid>
+            <pubDate>Thu, 19 May 2016 12:26:20 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Daddy]]></title>
             <description><![CDATA[<article><h1>Daddy</h1><p>Daddy is the best. Everybody in the whole world loves Daddy. He's witty and he's smart. Daddy likes to photograph things.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/774af51f-70c8-4432-a196-0c7c78de002a.jpg"></article>]]></description>
             <link>https://thegrid.ai/pieface/daddy/index.html</link>
             <guid isPermaLink="false">f54ec9cd-b7aa-434b-99bd-046d9262bb33</guid>
             <pubDate>Thu, 19 May 2016 12:26:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Lars]]></title>
-            <description><![CDATA[<article><h1>Lars</h1><p>description</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/839dc3d1-9974-4f8c-afff-4d8487883786.jpg"></article>]]></description>
-            <link>https://thegrid.ai/pieface/lars/index.html</link>
-            <guid isPermaLink="false">1cf3fcf2-3fb8-4809-9d01-31a63c6c7710</guid>
-            <pubDate>Thu, 19 May 2016 11:55:10 GMT</pubDate>
         </item>
     </channel>
 </rss>
