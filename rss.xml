@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[pieface]]></title>
         <description><![CDATA[pieface]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/pieface/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 19 May 2016 11:55:18 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 19 May 2016 11:55:36 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/pieface/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Mummy]]></title>
+            <description><![CDATA[<article><h1>Mummy</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b3d01464-721a-4fef-9362-f17e3f0eebba.jpg"></article>]]></description>
+            <link>https://thegrid.ai/pieface/mummy/index.html</link>
+            <guid isPermaLink="false">0940193a-11f0-49a0-927d-2b842fd9bd0c</guid>
+            <pubDate>Thu, 19 May 2016 11:55:10 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Daddy]]></title>
             <description><![CDATA[<article><h1>Daddy</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/774af51f-70c8-4432-a196-0c7c78de002a.jpg"></article>]]></description>
-            <link>undefineddaddy/index.html</link>
+            <link>https://thegrid.ai/pieface/daddy/index.html</link>
             <guid isPermaLink="false">f54ec9cd-b7aa-434b-99bd-046d9262bb33</guid>
             <pubDate>Thu, 19 May 2016 11:55:10 GMT</pubDate>
         </item>
