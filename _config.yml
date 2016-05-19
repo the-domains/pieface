@@ -1,0 +1,28 @@
+name: pieface
+favicon: null
+layout_spectrum: 0.33779441053047776
+typography_spectrum: 0.34167190501466393
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.21453954000025988
+  lightness: 0.2244926868006587
+  saturation: 0.5651370473206043
+  rhythmicContrast: 0.25670562661252916
+purpose: []
