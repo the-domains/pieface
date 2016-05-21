@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[pieface]]></title>
-        <description><![CDATA[pieface]]></description>
+        <title><![CDATA[Reluctant Portraits]]></title>
+        <description><![CDATA[Reluctant Portraits]]></description>
         <link>https://thegrid.ai/pieface/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 19 May 2016 12:26:36 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 May 2016 12:58:41 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/pieface/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Mummy, Iphone chic.]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/pieface/mummy/index.html</link>
             <guid isPermaLink="false">0940193a-11f0-49a0-927d-2b842fd9bd0c</guid>
             <pubDate>Thu, 19 May 2016 12:21:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Reluctant Portraits sometimes specialise in showing off your dial. Sometimes. Because we're usually busy doing something else. Don't get us wrong; we're not slackers, we just don't have a lot of spare time. So if you're looking for a portrait and you're not in a big hurry, give us a bell or shoot us an email. We'll get back to you.....eventually</p>]]></description>
+            <link>https://thegrid.ai/pieface/reluctant-portraits-sometimes-specialise-in-showing-off-your/index.html</link>
+            <guid isPermaLink="false">a5c6a179-8aad-4eea-acc5-c9f6d13b4986</guid>
+            <pubDate>Sat, 21 May 2016 12:58:40 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Lars]]></title>
