@@ -1,7 +1,7 @@
 name: P   I   E   F   A   C   E
 favicon: null
 layout_spectrum: 0.41026
-typography_spectrum: 0.27081
+typography_spectrum: 0.25888
 title: Reluctant Portraits
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#000000'
     - '#c5c5c5'
     - '#f4f4f4'
-  brandStrength: 0.6875
-  lightness: 0.5
+  brandStrength: 0.25
+  lightness: 1
   saturation: 0.5625
   rhythmicContrast: 0.5
 purpose: []
