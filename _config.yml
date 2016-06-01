@@ -15,14 +15,14 @@ collections:
 color:
   saturation: 0.6487455
   brandStrength: 0.2956989
-  lightness: 0
+  lightness: 0.3154122
   brandColors:
     - '#8e8e8e'
     - '#545454'
     - '#000000'
     - '#c5c5c5'
     - '#f4f4f4'
-  rhythmicContrast: 1
+  rhythmicContrast: 0.4032258
 cta:
   bucket: null
   version: null
@@ -31,11 +31,11 @@ analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
 name: P   I   E   F   A   C   E
+favicon: null
 opengraph:
   image: null
   type: null
   appId: null
 typography_spectrum: 0.25888
-layout_spectrum: 0.7670251
+layout_spectrum: 0.6039426
