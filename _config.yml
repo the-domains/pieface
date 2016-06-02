@@ -13,7 +13,7 @@ collections:
     permalink:
       path: '/:title/'
 color:
-  saturation: 0.4784946
+  saturation: 0.8853046
   brandStrength: 0.2956989
   lightness: 0.1451613
   brandColors:
@@ -31,8 +31,8 @@ analytics:
   twitter: null
   google: null
   facebook: null
-name: P   I   E   F   A   C   E
 favicon: null
+name: P   I   E   F   A   C   E
 opengraph:
   image: null
   type: null
