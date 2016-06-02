@@ -22,7 +22,7 @@ color:
     - '#000000'
     - '#c5c5c5'
     - '#f4f4f4'
-  rhythmicContrast: 0
+  rhythmicContrast: 1
 cta:
   bucket: null
   version: null
@@ -31,8 +31,8 @@ analytics:
   twitter: null
   google: null
   facebook: null
-name: P   I   E   F   A   C   E
 favicon: null
+name: P   I   E   F   A   C   E
 opengraph:
   image: null
   type: null
