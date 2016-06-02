@@ -22,7 +22,7 @@ color:
     - '#000000'
     - '#c5c5c5'
     - '#f4f4f4'
-  rhythmicContrast: 0.5609319
+  rhythmicContrast: 0.05197133
 cta:
   bucket: null
   version: null
