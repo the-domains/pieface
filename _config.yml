@@ -1,6 +1,6 @@
 name: P   I   E   F   A   C   E
 favicon: null
-layout_spectrum: 0
+layout_spectrum: 0.24806
 typography_spectrum: 0.4974
 title: R E L U C T A N T    P O R T R A I T S
 collections:
@@ -29,12 +29,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ffffff'
-    - '#090d10'
-    - '#79737f'
-    - '#6f4036'
-    - '#910e13'
-  brandStrength: 0.375
+    - '#dee5ed'
+    - '#996f00'
+    - '#c5ae00'
+    - '#030200'
+    - '#008961'
+  brandStrength: 0.3125
   lightness: 0.1875
   saturation: 0.6875
   rhythmicContrast: 0
