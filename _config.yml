@@ -1,6 +1,6 @@
 name: P   I   E   F   A   C   E
 favicon: null
-layout_spectrum: 0.49542
+layout_spectrum: 0
 typography_spectrum: 0.4974
 title: Reluctant Portraits
 collections:
@@ -34,8 +34,8 @@ color:
     - '#79737f'
     - '#6f4036'
     - '#910e13'
-  brandStrength: 0
-  lightness: 0.5625
-  saturation: 0.5
-  rhythmicContrast: 0.75
+  brandStrength: 0.3125
+  lightness: 0.1875
+  saturation: 0.75
+  rhythmicContrast: 1
 purpose: []
