@@ -1,5 +1,8 @@
+name: P   I   E   F   A   C   E
+favicon: null
+layout_spectrum: 0.49542
+typography_spectrum: 0.25888
 title: Reluctant Portraits
-purpose: []
 collections:
   - index:
       path: /
@@ -12,30 +15,27 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.8853046
-  brandStrength: 0.2956989
-  lightness: 0.1451613
   brandColors:
     - '#8e8e8e'
     - '#545454'
     - '#000000'
     - '#c5c5c5'
     - '#f4f4f4'
-  rhythmicContrast: 0.5483871
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-favicon: null
-name: P   I   E   F   A   C   E
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.25888
-layout_spectrum: 0.6039426
+  brandStrength: 0.2956989
+  lightness: 0.1451613
+  saturation: 0.5625
+  rhythmicContrast: 0.75
+purpose: []
