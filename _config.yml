@@ -1,5 +1,8 @@
+name: P   I   E   F   A   C   E
+favicon: null
+layout_spectrum: 0.24806
+typography_spectrum: 0.4974
 title: R E L U C T A N T    P O R T R A I T S
-purpose: []
 collections:
   - index:
       path: /
@@ -12,30 +15,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.811828
-  brandStrength: 0.3125
-  lightness: 0.1875
   brandColors:
     - '#dee5ed'
     - '#996f00'
     - '#c5ae00'
     - '#030200'
     - '#008961'
-  rhythmicContrast: 0
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-name: P   I   E   F   A   C   E
-favicon: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.4974
-layout_spectrum: 0.24806
+  brandStrength: 0.0625
+  lightness: 1
+  saturation: 0.6875
+  rhythmicContrast: 1
+purpose: []
